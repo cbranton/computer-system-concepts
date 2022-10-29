@@ -22,6 +22,7 @@ We will utilize a number of free online resources for this course. You will not 
 
 - [Operating Systems and MiddleWare: Supporting Controlled Interaction](https://open.umn.edu/opentextbooks/textbooks/161)
 
+**Recommended:** [Crash Course Computer Science](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) A series of YouTube videos exploring computer science. They provide an alternate and entertaining view of our subject matter.
 
 ## Arduino electronics
 
@@ -43,3 +44,5 @@ We will begin the semester studying some of the electronics concepts used in com
 
 ### Visual Studio Code
 [Tutorial on configuring VS Code for gcc development in WSL](https://code.visualstudio.com/docs/cpp/config-wsl)
+
+[Visual Studio Development with WSL](https://devblogs.microsoft.com/cppblog/c-with-visual-studio-2019-and-windows-subsystem-for-linux-wsl/). A little dated, but still followable. 
